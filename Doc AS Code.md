@@ -26,3 +26,11 @@ Comparação entre Plant UML & Mermaid
 | Draw.io |  |
 | Structurizr (C4) DSL |  |
 | Lucidchart | Excalidraw |
+
+
+
+
+
+# Teste
+
+Copiar um diagrama do https://kroki.io/ para o https://www.eraser.io/diagramgpt + prompt simples deu um resultado visual bacana.
